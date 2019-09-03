@@ -30,6 +30,6 @@ public class Main {
         System.out.println("ketqua la: " + number1.ketQua);
         
         System.out.println("ahihi");
-         System.out.println("");
+        System.out.println("");
     }
 }
